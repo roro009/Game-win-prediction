@@ -62,5 +62,3 @@ if st.button('Predict'):
     # Process user inputs
     # Make prediction
     # st.write('Prediction: ', prediction)
-
-    # To run the Streamlit app, use the command line to navigate to the script's directory and run `streamlit run app.py`
