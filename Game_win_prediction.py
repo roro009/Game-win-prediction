@@ -2,6 +2,7 @@
 # coding: utf-8
 
 # In[ ]:
+!pip install matplotlib
 
 
 import pandas as pd
