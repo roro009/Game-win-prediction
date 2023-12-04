@@ -61,4 +61,4 @@ st.title('NBA Game Win Predictor')
 if st.button('Predict'):
   # Process user inputs
   # Make prediction
-  # st.write('Prediction: ', prediction)
+  st.write('Prediction: ', prediction)
