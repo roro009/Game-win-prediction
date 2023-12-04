@@ -59,6 +59,6 @@ st.title('NBA Game Win Predictor')
 # team, player stats, etc.
 
 if st.button('Predict'):
-    # Process user inputs
-    # Make prediction
-    # st.write('Prediction: ', prediction)
+# Process user inputs
+# Make prediction
+# st.write('Prediction: ', prediction)
