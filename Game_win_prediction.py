@@ -3,6 +3,7 @@
 
 # In[ ]:
 
+sudo pip3 install scikit-learn
 
 import streamlit as st
 import pandas as pd
