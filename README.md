@@ -7,8 +7,13 @@ The data utilized in this project comprised various aspects of NBA games spannin
 The core of the web app is driven by a RandomForestClassifier, a robust ensemble learning method used for classification tasks. This model was selected for its ability to handle a large number of input features and its robustness against overfitting. The model predicts the likelihood of the home team winning a game based on historical game statistics. It was trained on a set of features including seasonal data and both home and away team statistics (like points scored, field goal percentages, etc.), and evaluated for accuracy.
 ## Tools Used
 Python: The main programming language used for data manipulation, model building, and web app development.
+
 Pandas: A Python library for data manipulation and analysis; used here for data loading, cleaning, and preprocessing.
+
 Matplotlib & Seaborn: Python libraries for data visualization; used for creating histograms and other plots to explore data distributions and relationships.
+
 Scikit-learn: A machine learning library in Python, employed for model training, prediction, and evaluation. It provided the RandomForestClassifier algorithm and functions for train-test split and cross-validation.
+
 Streamlit: An open-source app framework for Machine Learning and Data Science teams. In this project, Streamlit was used to build and deploy the interactive web application that hosts the model.
+
 NumPy: Used for numerical operations, especially in the context of handling model predictions and cross-validation scores.
